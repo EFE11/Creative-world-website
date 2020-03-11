@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="34px" viewBox="0 0 25 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="website-1" transform="translate(-1160.000000, -5688.000000)" fill="#0601F9" fill-rule="nonzero">
+            <g id="Contact" transform="translate(-2.000000, 5048.000000)">
+                <g id="Say-hello" transform="translate(0.000000, 339.659533)">
+                    <path d="M1173.21536,333.308007 C1163.75586,319.567851 1162,318.157691 1162,313.107977 C1162,306.190965 1167.59642,300.583658 1174.5,300.583658 C1181.40358,300.583658 1187,306.190965 1187,313.107977 C1187,318.157691 1185.24414,319.567851 1175.78464,333.308007 C1175.16387,334.206497 1173.83607,334.206432 1173.21536,333.308007 Z M1174.5,318.326443 C1177.3765,318.326443 1179.70833,315.99007 1179.70833,313.107977 C1179.70833,310.225883 1177.3765,307.88951 1174.5,307.88951 C1171.6235,307.88951 1169.29167,310.225883 1169.29167,313.107977 C1169.29167,315.99007 1171.6235,318.326443 1174.5,318.326443 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
